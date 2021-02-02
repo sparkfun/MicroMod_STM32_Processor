@@ -18283,7 +18283,7 @@ Switches electrical signals</description>
 <part name="GND19" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND20" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="C8" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-10V-10%-X7R" value="0.1uF">
+<part name="C8" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402T-10V-10%-X7R" value="0.1uF">
 <attribute name="SPICEPREFIX" value="C"/>
 </part>
 <part name="C9" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0402T-16V-10%" value="1.0uF">
@@ -18319,7 +18319,7 @@ Switches electrical signals</description>
 <part name="R2" library="SparkFun-Resistors" deviceset="22OHM" device="-0402T-1/16W-1%" value="22"/>
 <part name="R3" library="SparkFun-Resistors" deviceset="22OHM" device="-0402T-1/16W-1%" value="22"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="5.1KOHM" device="-0402T-1/16W-1%" value="5.1k"/>
-<part name="C15" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-10V-10%-X7R" value="0.1uF"/>
+<part name="C15" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402T-10V-10%-X7R" value="0.1uF"/>
 <part name="SUPPLY5" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND16" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="R5" library="SparkFun-Resistors" deviceset="100KOHM" device="-0402T-1/16W-1%" value="100k"/>
@@ -18336,7 +18336,7 @@ Switches electrical signals</description>
 <sheets>
 <sheet>
 <plain>
-<text x="78.74" y="48.26" size="2.54" layer="94" font="vector" ratio="15">Flash IC</text>
+<text x="78.74" y="48.26" size="2.54" layer="94" font="vector" ratio="15">128 Mbit Flash</text>
 <text x="2.54" y="22.86" size="2.54" layer="94" font="vector" ratio="15">Status LED</text>
 <wire x1="124.46" y1="185.42" x2="124.46" y2="111.76" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="124.46" y1="111.76" x2="124.46" y2="53.34" width="0.2032" layer="97" style="shortdash"/>
@@ -18362,6 +18362,7 @@ placed near VDDA</text>
 <text x="238.76" y="7.62" size="2.54" layer="94" font="vector" ratio="15">v10</text>
 <text x="165.1" y="11.684" size="2.54" layer="94" font="vector" ratio="15">Alex Wende</text>
 <wire x1="45.72" y1="27.94" x2="45.72" y2="0" width="0.2032" layer="97" style="shortdash"/>
+<text x="2.54" y="175.26" size="1.27" layer="97">VDD Range: 1.8 - 3.6V</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
