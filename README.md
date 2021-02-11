@@ -1,9 +1,9 @@
 SparkFun STM32 MicroMod Processor
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![SparkFun STM32 MicroMod Processor](URL for picture of part)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun STM32 MicroMod Processor (17713)*](https://www.sparkfun.com/products/17713)
 
 <Basic description of the part.>
 
@@ -26,16 +26,7 @@ Documentation
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
 
-Product Versions
-----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU](retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
 
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
 
 License Information
 -------------------
