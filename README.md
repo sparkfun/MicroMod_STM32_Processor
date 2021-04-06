@@ -5,7 +5,7 @@ SparkFun STM32 MicroMod Processor
 
 [*SparkFun STM32 MicroMod Processor (17713)*](https://www.sparkfun.com/products/17713)
 
-<Basic description of the part.>
+We've brought the power and precision of the STM32 Processor to the [SparkFun MicroMod ecosystem](https://www.sparkfun.com/micromod)! Please welcome the [MicroMod STM32 Processor Board](https://www.sparkfun.com/products/17713)! With the high-performance Arm® Cortex®-M4 32-bit RISC core, Flash memory up to 1 Mbyte, up to 192 Kbytes of SRAM, a memory protection unit (MPU), high-speed embedded memories, up to 4 Kbytes of backup SRAM, and an extensive range of enhanced I/Os and peripherals. 
 
 Repository Contents
 -------------------
