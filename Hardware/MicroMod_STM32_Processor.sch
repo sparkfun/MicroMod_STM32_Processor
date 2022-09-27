@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -18376,21 +18376,21 @@ placed near VDDA</text>
 <attribute name="NAME" x="40.64" y="167.64" size="2.54" layer="95" font="vector"/>
 <attribute name="VALUE" x="40.64" y="76.2" size="2.54" layer="96" font="vector"/>
 </instance>
-<instance part="Y1" gate="G$1" x="22.86" y="91.44" smashed="yes">
-<attribute name="NAME" x="22.86" y="93.472" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="22.86" y="89.408" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="Y1" gate="G$1" x="20.32" y="91.44" smashed="yes">
+<attribute name="NAME" x="20.32" y="93.472" size="1.778" layer="95" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="20.32" y="89.408" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="Y2" gate="G$1" x="104.14" y="81.28" smashed="yes">
 <attribute name="NAME" x="104.14" y="83.312" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="104.14" y="79.248" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="C1" gate="G$1" x="17.78" y="81.28" smashed="yes" rot="MR0">
-<attribute name="NAME" x="16.256" y="84.201" size="1.778" layer="95" font="vector" rot="MR0"/>
-<attribute name="VALUE" x="16.256" y="79.121" size="1.778" layer="96" font="vector" rot="MR0"/>
+<instance part="C1" gate="G$1" x="15.24" y="81.28" smashed="yes" rot="MR0">
+<attribute name="NAME" x="13.716" y="84.201" size="1.778" layer="95" font="vector" rot="MR0"/>
+<attribute name="VALUE" x="13.716" y="79.121" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
-<instance part="C2" gate="G$1" x="27.94" y="81.28" smashed="yes" rot="MR0">
-<attribute name="NAME" x="26.416" y="84.201" size="1.778" layer="95" font="vector" rot="MR0"/>
-<attribute name="VALUE" x="26.416" y="79.121" size="1.778" layer="96" font="vector" rot="MR0"/>
+<instance part="C2" gate="G$1" x="25.4" y="81.28" smashed="yes" rot="MR0">
+<attribute name="NAME" x="23.876" y="84.201" size="1.778" layer="95" font="vector" rot="MR0"/>
+<attribute name="VALUE" x="23.876" y="79.121" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
 <instance part="C3" gate="G$1" x="99.06" y="71.12" smashed="yes" rot="MR0">
 <attribute name="NAME" x="97.536" y="74.041" size="1.778" layer="95" font="vector" rot="MR0"/>
@@ -18507,11 +18507,11 @@ placed near VDDA</text>
 <instance part="GND4" gate="1" x="33.02" y="76.2" smashed="yes">
 <attribute name="VALUE" x="33.02" y="75.946" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND6" gate="1" x="27.94" y="73.66" smashed="yes">
-<attribute name="VALUE" x="27.94" y="73.406" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="GND6" gate="1" x="25.4" y="73.66" smashed="yes">
+<attribute name="VALUE" x="25.4" y="73.406" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND10" gate="1" x="17.78" y="73.66" smashed="yes">
-<attribute name="VALUE" x="17.78" y="73.406" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="GND10" gate="1" x="15.24" y="73.66" smashed="yes">
+<attribute name="VALUE" x="15.24" y="73.406" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="GND11" gate="1" x="109.22" y="63.5" smashed="yes">
 <attribute name="VALUE" x="109.22" y="63.246" size="1.778" layer="96" font="vector" align="top-center"/>
@@ -18613,24 +18613,24 @@ placed near VDDA</text>
 <segment>
 <pinref part="Y1" gate="G$1" pin="2"/>
 <pinref part="C2" gate="G$1" pin="1"/>
-<wire x1="25.4" y1="91.44" x2="27.94" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="27.94" y1="91.44" x2="27.94" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="91.44" x2="25.4" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="91.44" x2="25.4" y2="86.36" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="PH1"/>
-<wire x1="35.56" y1="93.98" x2="27.94" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="27.94" y1="93.98" x2="27.94" y2="91.44" width="0.1524" layer="91"/>
-<junction x="27.94" y="91.44"/>
+<wire x1="35.56" y1="93.98" x2="25.4" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="93.98" x2="25.4" y2="91.44" width="0.1524" layer="91"/>
+<junction x="25.4" y="91.44"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="Y1" gate="G$1" pin="1"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="20.32" y1="91.44" x2="17.78" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="17.78" y1="91.44" x2="17.78" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="91.44" x2="15.24" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="91.44" x2="15.24" y2="86.36" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="PH0"/>
-<wire x1="35.56" y1="96.52" x2="17.78" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="17.78" y1="96.52" x2="17.78" y2="91.44" width="0.1524" layer="91"/>
-<junction x="17.78" y="91.44"/>
+<wire x1="35.56" y1="96.52" x2="15.24" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="96.52" x2="15.24" y2="91.44" width="0.1524" layer="91"/>
+<junction x="15.24" y="91.44"/>
 </segment>
 </net>
 <net name="D+" class="0">
@@ -18648,8 +18648,8 @@ placed near VDDA</text>
 <net name="SWDIO" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PA13/JTMS"/>
-<wire x1="35.56" y1="104.14" x2="33.02" y2="104.14" width="0.1524" layer="91"/>
-<label x="33.02" y="104.14" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="104.14" x2="30.48" y2="104.14" width="0.1524" layer="91"/>
+<label x="30.48" y="104.14" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J1" gate="J1" pin="SWDIO"/>
@@ -18660,8 +18660,8 @@ placed near VDDA</text>
 <net name="SWCLK" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PA14/JTCK"/>
-<wire x1="35.56" y1="101.6" x2="33.02" y2="101.6" width="0.1524" layer="91"/>
-<label x="33.02" y="101.6" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="101.6" x2="30.48" y2="101.6" width="0.1524" layer="91"/>
+<label x="30.48" y="101.6" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J1" gate="J1" pin="SWDCK"/>
@@ -18697,7 +18697,7 @@ placed near VDDA</text>
 <label x="233.68" y="147.32" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 </net>
-<net name="CIPO" class="0">
+<net name="POCI" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PA6/SPI1_MISO"/>
 <wire x1="35.56" y1="121.92" x2="30.48" y2="121.92" width="0.1524" layer="91"/>
@@ -18709,7 +18709,7 @@ placed near VDDA</text>
 <label x="233.68" y="142.24" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 </net>
-<net name="COPI" class="0">
+<net name="PICO" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PA7/SPI1_MOSI"/>
 <wire x1="35.56" y1="119.38" x2="30.48" y2="119.38" width="0.1524" layer="91"/>
@@ -18841,9 +18841,9 @@ placed near VDDA</text>
 <label x="233.68" y="116.84" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="PA2/UART2_TX"/>
-<wire x1="35.56" y1="132.08" x2="30.48" y2="132.08" width="0.1524" layer="91"/>
-<label x="30.48" y="132.08" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="114.3" x2="30.48" y2="114.3" width="0.1524" layer="91"/>
+<label x="30.48" y="114.3" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="PA9/UART1_TX"/>
 </segment>
 </net>
 <net name="RX1" class="0">
@@ -18853,9 +18853,9 @@ placed near VDDA</text>
 <label x="233.68" y="114.3" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="PA3/UART2_RX"/>
-<wire x1="35.56" y1="129.54" x2="30.48" y2="129.54" width="0.1524" layer="91"/>
-<label x="30.48" y="129.54" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="111.76" x2="30.48" y2="111.76" width="0.1524" layer="91"/>
+<label x="30.48" y="111.76" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="PA10/UART1_RX"/>
 </segment>
 </net>
 <net name="AUD_OUT" class="0">
@@ -19130,8 +19130,8 @@ placed near VDDA</text>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="PD2/SDIO_CMD"/>
-<wire x1="35.56" y1="91.44" x2="33.02" y2="91.44" width="0.1524" layer="91"/>
-<label x="33.02" y="91.44" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="91.44" x2="30.48" y2="91.44" width="0.1524" layer="91"/>
+<label x="30.48" y="91.44" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="G1" class="0">
@@ -19166,8 +19166,8 @@ placed near VDDA</text>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="PA15/JTDI"/>
-<wire x1="33.02" y1="99.06" x2="35.56" y2="99.06" width="0.1524" layer="91"/>
-<label x="33.02" y="99.06" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="30.48" y1="99.06" x2="35.56" y2="99.06" width="0.1524" layer="91"/>
+<label x="30.48" y="99.06" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -19243,15 +19243,23 @@ placed near VDDA</text>
 <wire x1="35.56" y1="83.82" x2="33.02" y2="83.82" width="0.1524" layer="91"/>
 <junction x="33.02" y="83.82"/>
 <pinref part="GND4" gate="1" pin="GND"/>
+<pinref part="U1" gate="G$1" pin="PA2/UART2_TX"/>
+<wire x1="35.56" y1="132.08" x2="33.02" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="132.08" x2="33.02" y2="129.54" width="0.1524" layer="91"/>
+<junction x="33.02" y="88.9"/>
+<pinref part="U1" gate="G$1" pin="PA3/UART2_RX"/>
+<wire x1="33.02" y1="129.54" x2="33.02" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="129.54" x2="33.02" y2="129.54" width="0.1524" layer="91"/>
+<junction x="33.02" y="129.54"/>
 </segment>
 <segment>
 <pinref part="C2" gate="G$1" pin="2"/>
-<wire x1="27.94" y1="78.74" x2="27.94" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="78.74" x2="25.4" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="GND6" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="17.78" y1="78.74" x2="17.78" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="78.74" x2="15.24" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -19346,21 +19354,13 @@ placed near VDDA</text>
 <junction x="10.16" y="55.88"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="PA10/UART1_RX"/>
-<wire x1="35.56" y1="111.76" x2="33.02" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="111.76" x2="33.02" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="PA9/UART1_TX"/>
-<wire x1="33.02" y1="114.3" x2="33.02" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="149.86" x2="33.02" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="152.4" x2="33.02" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="154.94" x2="33.02" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="157.48" x2="33.02" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="160.02" x2="33.02" y2="167.64" width="0.1524" layer="91"/>
-<wire x1="35.56" y1="114.3" x2="33.02" y2="114.3" width="0.1524" layer="91"/>
-<junction x="33.02" y="114.3"/>
 <pinref part="U1" gate="G$1" pin="VDDA"/>
 <wire x1="35.56" y1="149.86" x2="33.02" y2="149.86" width="0.1524" layer="91"/>
-<junction x="33.02" y="149.86"/>
 <pinref part="U1" gate="G$1" pin="VDD4"/>
 <wire x1="35.56" y1="152.4" x2="33.02" y2="152.4" width="0.1524" layer="91"/>
 <junction x="33.02" y="152.4"/>
