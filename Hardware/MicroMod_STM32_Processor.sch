@@ -18544,7 +18544,7 @@ placed near VDDA</text>
 <text x="127" y="106.68" size="2.54" layer="94" font="vector" ratio="15">Reset</text>
 <text x="170.18" y="180.34" size="2.54" layer="94" font="vector" ratio="15">MicroMod Connector</text>
 <text x="2.54" y="180.34" size="2.54" layer="94" font="vector" ratio="15">STM32F405</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector" ratio="15">v20</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector" ratio="15">v11</text>
 <text x="168.148" y="11.684" size="2.54" layer="94" font="vector" ratio="7">Alex Wende</text>
 <wire x1="45.72" y1="27.94" x2="45.72" y2="0" width="0.2032" layer="97" style="shortdash"/>
 <text x="2.54" y="175.26" size="1.27" layer="97" font="vector">VDD Range: 1.8 - 3.6V</text>
