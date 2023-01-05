@@ -21688,7 +21688,7 @@ placed near VDDA</text>
 <attribute name="REV" x="236.22" y="6.604" size="2.7432" layer="94" font="vector"/>
 </instance>
 <instance part="U1" gate="G$1" x="66.04" y="121.92" smashed="yes">
-<attribute name="NAME" x="43.18" y="162.56" size="2.54" layer="95" font="vector"/>
+<attribute name="NAME" x="43.18" y="170.18" size="2.54" layer="95" font="vector"/>
 <attribute name="VALUE" x="43.18" y="71.12" size="2.54" layer="96" font="vector"/>
 </instance>
 <instance part="Y1" gate="G$1" x="25.4" y="91.44" smashed="yes">
