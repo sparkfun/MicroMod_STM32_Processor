@@ -1,12 +1,11 @@
 SparkFun STM32 MicroMod Processor
 ========================================
 
-![SparkFun STM32 MicroMod Processor](https://cdn.sparkfun.com/assets/parts/1/6/8/1/7/17713-SparkFun_MicroMod_STM32_Processor-01.jpg)
+![SparkFun STM32 MicroMod Processor](https://cdn.sparkfun.com/assets/parts/2/1/1/2/2/STM32F405-_01.jpg)
 
-[*SparkFun STM32 MicroMod Processor (17713)*](https://www.sparkfun.com/products/17713)
 [*SparkFun STM32 MicroMod Processor v20 (21326)*](https://www.sparkfun.com/products/21326)
 
-We've brought the power and precision of the STM32 Processor to the [SparkFun MicroMod ecosystem](https://www.sparkfun.com/micromod)! Please welcome the [MicroMod STM32 Processor Board](https://www.sparkfun.com/products/17713)! With the high-performance Arm® Cortex®-M4 32-bit RISC core, Flash memory up to 1 Mbyte, up to 192 Kbytes of SRAM, a memory protection unit (MPU), high-speed embedded memories, up to 4 Kbytes of backup SRAM, and an extensive range of enhanced I/Os and peripherals, this board is chock full of functionality. 
+We've brought the power and precision of the STM32 Processor to the [SparkFun MicroMod ecosystem](https://www.sparkfun.com/micromod)! Please welcome the [MicroMod STM32 Processor Board](https://www.sparkfun.com/products/21326)! With the high-performance Arm® Cortex®-M4 32-bit RISC core, Flash memory up to 1 Mbyte, up to 192 Kbytes of SRAM, a memory protection unit (MPU), high-speed embedded memories, up to 4 Kbytes of backup SRAM, and an extensive range of enhanced I/Os and peripherals, this board is chock full of functionality. 
 
 Repository Contents
 -------------------
